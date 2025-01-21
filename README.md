@@ -56,6 +56,7 @@ Purpose of Each Visual:
 #### - $${\color{blue}Layout}$$:
 - _Logical grouping of visuals (e.g., operational metrics on one side, financial metrics on another)._
 ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/f79feff3a1bd452de1dd5ae80a340e17f109145e/Dashboard%20Images/total%20patients%20text.png)
+![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/ad9c4cc4176164bb2b3606d435eb3a408224ec71/Dashboard%20Images/line%20chart.png)
 #### - $${\color{blue}Accessibility}$$:
 - _Font sizes, contrast, and alignment for clear readability._
 #### - $${\color{blue}Consistency}$$:
