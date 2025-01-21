@@ -45,6 +45,7 @@ Purpose of Each Visual:
  - _Filters for specific metrics like procedures performed or payment status._
 #### - $${\color{blue}Interactivity}$$:
   - _Highlighting: Clicking a segment in a pie chart filters related visuals._
+ ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/c6cb44ced677a6c579fb1be4b480f545baa3296f/Dashboard%20Images/column%20chart.png)
  - _Drill-throughs: Navigating from a summary to detailed views (e.g., from total admissions to individual patient details)._
 ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/7fcb49e32ad49a21f877d22aca6c4c3ed0e4c456/Dashboard%20Images/bar%20chart.png)
   - _Tooltips: Hovering over a data point provides additional context._
