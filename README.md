@@ -1,5 +1,5 @@
-### 1. __$${\color{green}Introduction}$$__![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/f79feff3a1bd452de1dd5ae80a340e17f109145e/Dashboard%20Images/total%20patients%20text.png)
-#### - $${\color{blue}Objective}$$:
+### 1. __$${\color{green}Introduction}$$__
+#### - $${\color{blue}Objective}$$:_![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/f79feff3a1bd452de1dd5ae80a340e17f109145e/Dashboard%20Images/total%20patients%20text.png)
  _Describe the main goal of the dashboard. For example, is it designed to monitor healthcare performance, patient metrics, resource utilization, or financial data._
 #### - $${\color{blue}Users}$$:
 _Identify the primary audience, such as healthcare administrators, clinical staff, or policymakers_.
