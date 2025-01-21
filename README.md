@@ -46,7 +46,7 @@ Purpose of Each Visual:
 #### - $${\color{blue}Interactivity}$$:
   - _Highlighting: Clicking a segment in a pie chart filters related visuals._
  - _Drill-throughs: Navigating from a summary to detailed views (e.g., from total admissions to individual patient details)._
-  - _Tooltips: Hovering over a data point provides additional context._Dashboard Design and Theme
+  - _Tooltips: Hovering over a data point provides additional context._
 ### 6. $${\color{Green}Dashboard\space Design\space and\space Theme}$$:
 #### - $${\color{blue}Colour\space Scheme}$$:
 - _Colors for critical values (e.g., red for high-risk metrics, green for optimal metrics)._
