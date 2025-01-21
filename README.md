@@ -46,7 +46,7 @@ Purpose of Each Visual:
 #### - $${\color{blue}Interactivity}$$:
   - _Highlighting: Clicking a segment in a pie chart filters related visuals._
  - _Drill-throughs: Navigating from a summary to detailed views (e.g., from total admissions to individual patient details)._
- ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/9c07715e44bd866229cd78495998006bbf2d2cd2/Dashboard%20Images/slicer.png)
+![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/7fcb49e32ad49a21f877d22aca6c4c3ed0e4c456/Dashboard%20Images/bar%20chart.png)
   - _Tooltips: Hovering over a data point provides additional context._
 ### 6. $${\color{Green}Dashboard\space Design\space and\space Theme}$$:
 #### - $${\color{blue}Colour\space Scheme}$$:
