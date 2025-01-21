@@ -2,6 +2,7 @@
 #### - $${\color{blue}Objective}$$:
  _Describe the main goal of the dashboard. For example, is it designed to monitor healthcare performance, patient metrics, resource utilization, or financial data._
 #### - $${\color{blue}Users}$$:
+![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/feb9e3a90692f4a46d98854fddc0e8c8a76e04cc/Dashboard%20Images/area%20chart.png)
 _Identify the primary audience, such as healthcare administrators, clinical staff, or policymakers_.
 #### -  $${\color{blue}Purpose}$$:                        
 _Highlight what decisions the dashboard supports (e.g., optimizing hospital efficiency, reducing patient wait times, or monitoring health outcomes)_.
