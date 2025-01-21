@@ -55,6 +55,7 @@ Purpose of Each Visual:
 - _Colors for critical values (e.g., red for high-risk metrics, green for optimal metrics)._
 #### - $${\color{blue}Layout}$$:
 - _Logical grouping of visuals (e.g., operational metrics on one side, financial metrics on another)._
+![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/b0f48f35483dc24328f715ebe7ec010e873db0e1/Dashboard%20Images/sparkline%20chart.png)
 #### - $${\color{blue}Accessibility}$$:
 - _Font sizes, contrast, and alignment for clear readability._
 #### - $${\color{blue}Consistency}$$:
