@@ -41,6 +41,7 @@ Purpose of Each Visual:
 ### 5. $${\color{Green}Filters\space and\space Interactivity}$$: 
  #### - $${\color{blue}Filters}$$:
  - _Slicers for date, department, or patient demographics (age, gender, diagnosis)._
+   ![image alt](https://github.com/supriya554/Healthcare-Power-BI-)Project/blob/9c07715e44bd866229cd78495998006bbf2d2cd2/Dashboard%20Images/slicer.png
  - _Filters for specific metrics like procedures performed or payment status._
 #### - $${\color{blue}Interactivity}$$:
   - _Highlighting: Clicking a segment in a pie chart filters related visuals._
