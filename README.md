@@ -60,6 +60,7 @@ Purpose of Each Visual:
 - _Font sizes, contrast, and alignment for clear readability._
 #### - $${\color{blue}Consistency}$$:
 - _Uniform style across visuals (e.g., consistent chart types and labeling)._
+![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/87262b01faf34c95449f1d265cf8be60fceaa138/Dashboard%20Images/total%20patients%20text.png)
 ### 7. $${\color{Green}Insights\space Provided}$$:
 #### - $${\color{blue}Operational\space Insights }$$:                                                       
 - _Highlight trends in patient volume, efficiency metrics, or staffing needs._
