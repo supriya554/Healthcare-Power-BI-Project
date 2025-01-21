@@ -32,6 +32,7 @@ _Highlight what decisions the dashboard supports (e.g., optimizing hospital effi
 ### 4. $${\color{Green}Visualizations}$$: 
 Purpose of Each Visual:    
 - _Charts: Line charts for trends, bar charts for comparisons, pie charts for distribution._
+![bar chart](https://github.com/user-attachments/assets/a82b6350-3297-483a-b6e3-1febf7252898)
 - _Tables: Summarized data views with important metrics._
 - _Maps: Geographic representation of patient data or resource allocation._
  #### - $${\color{blue}Purpose\space of\space each\space visual}$$:                                                       
