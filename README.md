@@ -34,9 +34,9 @@ Purpose of Each Visual:
 - _Charts: Line charts for trends, bar charts for comparisons, pie charts for distribution._
 ![bar chart](https://github.com/user-attachments/assets/a82b6350-3297-483a-b6e3-1febf7252898)
 - _Tables: Summarized data views with important metrics._
- ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/8ceacdab90cee95855b76b361dcbf6dd1853f594/Dashboard%20Images/table.png)
 - _Maps: Geographic representation of patient data or resource allocation._
- #### - $${\color{blue}Purpose\space of\space each\space visual}$$:                                                       
+ #### - $${\color{blue}Purpose\space of\space each\space visual}$$:
+ ![image alt](https://github.com/supriya554/Healthcare-Power-BI-Project/blob/8ceacdab90cee95855b76b361dcbf6dd1853f594/Dashboard%20Images/table.png)
 - _For instance, a heatmap might show high-congestion areas in a hospital or regions with high patient inflow._
 ### 5. $${\color{Green}Filters\space and\space Interactivity}$$: 
  #### - $${\color{blue}Filters}$$:
